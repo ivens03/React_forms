@@ -1,0 +1,9 @@
+.banner {
+    background-color: #6278F7;
+    text-align: center;
+}
+
+/*Para so pegar o que a tela tem de tamanho*/
+.banner img {
+    max-width: 100%;
+}
